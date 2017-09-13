@@ -10,5 +10,4 @@ urlpatterns = [
     url(r'^$', AppTemplate.as_view(), name='app'),
     url(r'^buscar/$', buscar, name='buscar'),
     url(r'^busqueda/$', busqueda, name='busqueda'),
-    url(r'^contacto$', contacto, name='contacto'),
 ]
