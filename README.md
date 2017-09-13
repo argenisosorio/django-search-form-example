@@ -1,1 +1,3 @@
-Proyecto Base en django-1.9.8, incorpora una aplicacion, con una base común y estáticos comunes.
+# Django - Search form example
+
+In this example we will register objects in the "persona" model and then search for them by name.
